@@ -58,4 +58,4 @@ console.log(addone(2));
 const addTwo = function(num){
     return num + 2
 }
-console.log(addTwo(3));
+console.log(addTwo(3))
