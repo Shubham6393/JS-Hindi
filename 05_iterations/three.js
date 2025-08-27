@@ -34,8 +34,9 @@ const myObject = {
     game2: 'Spiderman'
 }
 
-for (const [key, value] of myObject) {   // myObeject - is not iterable here because its an object 
-    //to implement this we have some different syntax. 
-    // console.log(key, ':-', value);
+// for (const [key, value] of myObject) {   
+//     // myObeject - is not iterable here because its an object. To implement this we have some different syntax that is for-in-loop. 
+//     // console.log(key, ':-', value);
     
-}
+// }
+
